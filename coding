@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
- int x,p,d,sum=0,s;
- scanf("%d %f",&x,&p);
+ int x,p,d,sum=0,r;
+ scanf("%d %d",&x,&p);
  while(d!=0)
  {
    
