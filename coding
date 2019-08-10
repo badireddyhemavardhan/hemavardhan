@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+ int x,p,d,sum=0,s;
+ scanf("%d %f",&x,&p);
+ while(d!=0)
+ {
+   
+  
+  d=((x*p)/100);
+  r=x-d;
+  sum=sum+r;
+  x=r;
+  }
+  printf("%d\n",x+sum);
+  }
+  
